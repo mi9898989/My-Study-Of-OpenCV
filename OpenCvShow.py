@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread('nope.jpg') 
+image = cv2.imread('XXXX.png') 
 window_name = 'image'
 
 cv2.imshow(window_name, image)  
